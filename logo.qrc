@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>../Бренд/Аватар.png</file>
+  </qresource>
+</RCC>

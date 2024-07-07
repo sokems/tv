@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="bg">
+    <file>../Бренд/bg.png</file>
+  </qresource>
+</RCC>
